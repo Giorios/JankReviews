@@ -1,0 +1,13 @@
+.parallax {
+
+  background-image: url('img/p5tops.jpg');
+  filter: blur(px);
+
+  min-height: 800px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
